@@ -391,7 +391,7 @@ Music_Genre_Classification_Vision_Transformer/\
 
 ---
 
-## ⚠️ Known Limitations
+## Known Limitations
 
 ### 1. Rock Genre Confusion (F1: 85.32%)
 
@@ -552,6 +552,6 @@ Note: Exact reproduction may still vary due to:
 
 Expect ±0.5% accuracy variance across runs.
 
-### License
+## License
 
 This project is licensed under the MIT License.
